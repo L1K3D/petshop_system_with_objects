@@ -1,0 +1,7 @@
+D:\Heitor\FESA\POO\atividade_petshop_-_25042023\atividade_petshop\atividade_petshop\bin\Debug\atividade_petshop.exe.config
+D:\Heitor\FESA\POO\atividade_petshop_-_25042023\atividade_petshop\atividade_petshop\bin\Debug\atividade_petshop.exe
+D:\Heitor\FESA\POO\atividade_petshop_-_25042023\atividade_petshop\atividade_petshop\bin\Debug\atividade_petshop.pdb
+D:\Heitor\FESA\POO\atividade_petshop_-_25042023\atividade_petshop\atividade_petshop\obj\Debug\atividade_petshop.csproj.AssemblyReference.cache
+D:\Heitor\FESA\POO\atividade_petshop_-_25042023\atividade_petshop\atividade_petshop\obj\Debug\atividade_petshop.csproj.CoreCompileInputs.cache
+D:\Heitor\FESA\POO\atividade_petshop_-_25042023\atividade_petshop\atividade_petshop\obj\Debug\atividade_petshop.exe
+D:\Heitor\FESA\POO\atividade_petshop_-_25042023\atividade_petshop\atividade_petshop\obj\Debug\atividade_petshop.pdb
